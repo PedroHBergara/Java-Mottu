@@ -1,9 +1,11 @@
 # API REST - Gerenciamento de Filiais e Pátios
 
-Este projeto foi desenvolvido pelos aluno:
+##Este projeto foi desenvolvido pelos aluno:
+
    **Pedro Henrique Bergara RM556639**
    **Henrique Izzi de São José RM555413**
-Este projeto consiste em uma API REST desenvolvida em Java com Spring Boot para gerenciar entidades de Filiais e seus respectivos Pátios, seguindo boas práticas de desenvolvimento e arquitetura.
+   
+Esta API faz parte de um projeto de mapeamento de filiais e patios, a nossa solução tem como ideia principal ter controle das motos sendo assim localizando elas por chegada a filial e separando ele na area dentro do patio.
 
 ## 1. Visão Geral do Projeto
 
