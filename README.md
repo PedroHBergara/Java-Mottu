@@ -24,7 +24,6 @@ O desenvolvimento seguiu uma arquitetura em camadas bem definida:
     *   Spring Web: Para criação da API REST.
     *   Spring Data JPA: Para persistência de dados.
     *   Spring Validation: Para validação dos dados de entrada (DTOs).
-    *   Spring Security (Opcional, mas configurado para permitir acesso ao Swagger): Para segurança da aplicação.
 *   **Banco de Dados:** H2 (Banco de dados em memória, ideal para desenvolvimento e testes)
 *   **Build Tool:** Maven
 *   **Documentação:** SpringDoc OpenAPI (Swagger UI)
